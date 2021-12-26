@@ -39,11 +39,11 @@
   }
 },
 {
-  "name": "package-name",
+  "name": "my-app",
   "version": "1.0.0",
-  "description": "package description",
+  "description": "deploy package",
   "scripts": {
-    "deploy": "node --version",
+    "deploy": "node --4.4.3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {},
